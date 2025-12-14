@@ -8,7 +8,7 @@ A pixel-perfect replication of the native iOS Calculator application built using
 
 | **Standard View** | **Calculation Result** | **Active/Clear State** |
 |:---:|:---:|:---:|
-| <img src="screenshots/ss1.png" width="250" alt="Standard iOS Calculator View" /> | <img src="screenshots/ss2.png" width="250" alt="Calculation Result View" /> | <img src="screenshots/ss3.png" width="250" alt="Calculator after clearing" /> |
+| <img src="Screenshot_1765755752.png" width="250" alt="Standard iOS Calculator View" /> | <img src="Screenshot_1765755787.png" width="250" alt="Calculation Result View" /> | <img src="Screenshot_1765755789.png" width="250" alt="Calculator after clearing" /> |
 | *Clean, Native UI Replication* | *Handling Operations & Results* | *State Changes (e.g., 'AC' to 'C')* |
 
 ---
@@ -35,7 +35,7 @@ A pixel-perfect replication of the native iOS Calculator application built using
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ios-calculator-clone.git](https://github.com/YOUR_USERNAME/ios-calculator-clone.git)
+    git clone [https://github.com/saadullah-001/IOS-Calculator.git](https://github.com/saadullah-001/IOS-Calculator.git)
     ```
 
 2.  **Navigate to the project directory**
@@ -58,5 +58,5 @@ A pixel-perfect replication of the native iOS Calculator application built using
 ### 👤 Author
 
 **Muhammad SaadUllah**
-- [GitHub Profile](https://github.com/YOUR_USERNAME)
-- [LinkedIn Profile](LINK_TO_LINKEDIN_IF_YOU_HAVE_ONE)
+- [GitHub Profile](https://github.com/saadullah-001)
+- [LinkedIn Profile](www.linkedin.com/in/saad-ullah001)
